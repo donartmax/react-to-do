@@ -1,0 +1,7 @@
+npm create-react-app naziv-foldera
+
+cd naziv-foldera
+npm start
+
+- dve vrste komponenti: funkcionalne i 
+- viticaste zagrade u .js da bi se prikazao element
